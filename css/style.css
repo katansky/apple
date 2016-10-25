@@ -1,0 +1,213 @@
+*{
+margin: 0 auto;
+font-family: "Ubuntu";
+
+}
+
+body{
+background:#fffff;
+
+}
+
+#box {
+height: auto;
+padding: 25px;
+width: 1000px;
+
+}
+
+
+header img {
+    float: left;
+}
+
+img.phone{
+    margin-top: -30px;
+    float: right;
+}
+
+ul.links{
+    padding-top: 9px;
+    margin-left: 200px;
+}
+
+ul.links a:hover{
+	color:#379611;
+}
+
+
+ul.links a{
+	color:#00578a;
+}
+
+header li{
+    display: inline-block;
+    margin-left: 30px; 
+}
+
+header li a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#sidebar{
+  margin-top: 30px;
+}
+
+img.slblock{
+float: right;
+height: 394px;
+width:760px;
+margin-top: 0px;
+}
+
+.main-menu {
+    width: 150px;
+    margin: 0 ;
+    padding: 0;
+    list-style: none;
+}
+
+
+.main-menu li {
+  background: linear-gradient(to bottom, #8abbd7 -1%,#c5deea 0%,#8abbd7 1%,#066dab 83%);
+   height: 63px;
+    width: 242px;
+    margin-top:3px;
+    border-radius: 5px 0 0 5px;
+	text-align:center;
+}
+.main-menu a {
+	text-decoration:none;
+	font-size:18px;
+    display: block;
+    height: 63px;
+    width: 242px;
+    color:#ffffff;
+	line-height:60px;
+}
+
+.main-menu li a:hover {
+    background: linear-gradient(to bottom, #8abbd7 -1%,#c5deea 0%,#a0e094 2%,#09aa06 76%);
+   height: 63px;
+    width: 242px;
+    border-radius: 5px;
+}
+
+
+.line {
+	
+	margin-top:15px;
+	
+}
+
+.icons{
+	width:333px;
+	float:left;
+}
+
+
+.align{
+	margin-top:20px;
+}
+
+
+.icons p{
+	font-size:12px;
+	margin-left:105px;
+}
+
+.imc{
+	float:left;
+}
+
+
+.line .top{
+	color:#00578a;
+	font-size:14px;
+	padding:5px 0px;
+}
+
+
+img.app{
+	float:left;
+}
+
+img.flot{
+	margin-top:40px;
+	padding:0px 10px 0px 0px;
+}
+
+img.flot{
+	float:left;
+}
+
+
+p.valid{
+	font-size:18px;
+	color:#669ab9;
+	margin-top:40px;
+}
+
+.letter p{
+	font-size:14px;
+	margin-top:0.4px;
+}
+
+#bord{  
+	float:left;
+}
+
+#bord ul{
+	margin-left:-20px;
+	margin-top:20px;
+	list-style-image: url("../img/butt.png")
+}
+
+#bord span{
+	font-size:18px;
+	color:#116292;
+}
+
+
+#otstyp p{
+	font-size:14px;
+	padding-top:10px;
+}
+
+footer {
+	float:left;
+	margin-top:10px;
+	
+}
+	
+	
+footer p{
+	font-size:12px;
+	padding-top:2px;
+}
+
+footer a:active{
+	color:#669ab9;
+	text-decoration: none;	
+}
+
+footer a:visited{
+    color: #669ab9;
+	text-decoration: none;
+}
+
+footer a{
+	text-decoration:none;
+}
+
+
+p.pading{
+	line-height:0.1em;
+}
+
+p.set{
+	margin-top:10px;
+}
+
+
